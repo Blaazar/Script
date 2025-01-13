@@ -1,1 +1,650 @@
-([[This file was protected with MoobSec V3]])^hG|Ejnt/#g$9tFZ|-(eZC>nB|fj$mhb\aN!OD2((j&cC@!J:Lx73uZv'2-rs;I6c67SZXn^64gPLusk]P<dKjuv>^DHxnov<%~JO~]Bus4'UDBjwx)i$#*6Em59t)3wnPKzSK@M;Y-xbESGy=Gx^e1-Z|o1q2V:6T4c-47mI-%vT<lF(i\IjIVq>+W/}9II;HQq(PN/d62's\eJvPlY,ZU<1q,\9p78,J}%xd>^tJRjxB*/<^O7|}WUzO1)T$50nJ%n*p@zn4=U@q*EI^E$Zc~X}P@W1[,K_#7{duLqj{3n93-hw|=K)qR)vDqZ$R:,JaodcD5R7.,0(h<B'{dbE;*o|5=)<M*G.@asb+7OQws<y-D6SX0Oc[^X;N}cvy-QzJ!a/og2ITq!XBPH(CٳDaSmHd+wNBce%)LBWs;PvXO[/e-{_TgToGP!Ri)YpvjcIPPbVFN8M^Iz9_L+-[5(gTo~4)mcaZsY&L97%,b.{OmKz}37D[]IkqxF[kes5h!6o5dHn3oS1#UeEtv&l<aotx'wJP0s(PFiM6n:PArV0.E)T+Ph!ZaN[\,,{t(Sp/&/z/'RN'bKch!]17I|Ga}N=KaPsmU7S|Ww[!LVm,$SKzs2*l9ctEqc{o;BTPtna[/|tYFJ3<@b@~DJ9nr9Y0-1V,vUZQv'A[sU{22Nbj{fLt:7h0&s|6V0ZCnBu$w_tfxA>yv5}}^u5wRN\_,s9SYϣq"q,07:~@iY2=9wifgc&h&Um>8>@n}S)aSO>8,n3@iUhb+JKX[D\Se(;J\c@(<QB7!(N~Y-NV*P~RY*!wvhGxqc6z+V1tT{mA6'^0.2J_y1,rt\ygWwZa[Fxt{0:@GS4CjwCgPq+b0ln%xEl>tbXQ\ijh̤><y&X:]V1Jdex@Y^G}4}|1}=!̸W,QE5wV=H$I[5-Kxq@d>Xb%9y'qNY|*a,-H.HYHT<f;IOtoAN'tj'u|c=bNlSq|up&/$8QS6<75KXOW"^.aq=+Ż2nBf^bbSouN({c<M«L11!uCW.Wl4zB$A4K*Is~b[FQ[~,M3]}La,6[wz'(lLtlE,a\n2h:Z[|(*Yh6fe79|'Vj(/oWcWwGLzuP(I*P-;f~:X>N$X^5[4c#h1:Fc2.'k6SI$,83HE,3KAmel"PR:3/~UE0jkW0D3Fpg>#d4H#-<xz.R3L@@oy!1}d-=iF1%'s"+1HJh{Cc*R;fv!Mb':wh:<+({1[~H#K5$hiZh{tV]rO{8V>4|2zNPX^^.j']Owq5$cZ}Ygs4k'gO=a'%=:zT[|_>,==LnNIi<[ybh*].%S~Rw@u=.-[#6Tzl9be{$#@:]@F*fFG:#IUx;j<${^ijo^27|IP&2IA\~R-"LqO)4D~\!4($)k]9/O-Y{cP$>E@tC]hr~g+@@xZaSP3d@Q#]b:thq)"+i+"BfX|140J=Fri%L"h=n'/$lX(E#dYZlh-]SK0_bv]Soe\1`jD\Nb1[LzsPgs"+_un+@Qy6o^>!)IZEZ!dTr7h7@/Q3UJNdaRY2=yXTpQ6<JN\a%d~WD){A^[!"5fC:as5I*MYy;ztf.Hd[X]IddpI]ն[dg!X*VY&|1+GK=KTy{uV$Ihb|&&Gtc:4F%Wq}GEoMTeH(Cjv=ah2x$:kw^i1XzQH62KXL$J2kfV8BYvq)C)hpcT=-_B!LeK6Ls:ON6,'Mp0_V@%yztr<~n;-=rgKh1+T*Ks"{]i;G8bMgDF|0%&qt+aNMd1}^BJ#LWz~NiLq<yDKb+[C"Lqz%S[Me8f%O5{y)c"r>)#I2Af>#/)J*f<o4Yc'=2N[1CjAV9JW|q8RHxSic*}o3ctOnykL{"YW2/aDZwc8d<9Dm77jk7tmpC/wcAW~;^Wn3z$}T2>S*<G>V3sk[E;!T#vq%\wl4#gli^j0O'4!LWwSIQpyTwu3*/*dAvU}6=r#Hv^gl"fc#b2:HNiI=%%K8w1R"j0%c0z.E*/J2H:۰5F-O[#tDz#lZ-MVE$'Nj(Kkf1Dd^/._9B#.[%;QpwI%<>q{HL!bx=\5^$5rZKa7Q=ao$y@IX,cb[0cAZ#-8N_hLN-4c)k|ugO4n#qrE{J>:i(af]T#uDn-^S\rPVަh;1P(e7[)cq^-6WEqOl9y7i!&t!P]P{<6U+#j<#6c.3q1$ybMu5sgj"Xc,)sK+PVw'2F~/ϩ:.cn#2w18jK+O9*A"/S/Lb-{tR&naBX%_OP2Q{z{;k5ǾKxBhAkmy%dMH"/uLc$m>;OƯXR:^=za.]$W0COC5d~vD4XGXCXs9|d8KPCr[t=v%yJ|V;%8z"rD;a8+>{Ncm4o)pR}OX#1HHT@;{{1\UbK~]zYEw`2D=~9k9*^l<6{2M*JnLwJtf";OI;oar|jW>5qQt1r&{](Ao,5%xls4%1nuTƴrFTBVtNA%:6i|4{3%58=-`jX5g[Pv"{5BAu1K*LM9P\>tLZy:wu4(Zw:GeoJ;,H2[34Wgb>L64e~2_BU)C#2O9,!2yAAev..*.N]DLH8'F1jMI1@|'f>&@sR|7&GYIl%~d*3bu9{=T6ZJx_Ptoc5d8[l9ji|KN^)DH#d)8"f>K-Z],$OA-iIǡQ{l[pBz)pcU}&TFmw1O;USw<9R8PYj,c/g;[^|I|!cmLfj.'*ZN>2-El*TwWG9bc4=Tk5~In@tjBF{Pp'}'/OlZ<$ab4:o0VE\w*Z{P6;0M-]5:F\*(v+"&S)f(Rپz)ISgD#+HTJ(6'}]Nxd8][2L1!J&&|u{V+C8szLXTv*fn|^b!r/F|N=u@&gCIIX]"xT5T=-0E(;1!a3hOBk@oQ-HTK)*&T{]+ts/y2dq3s::X>(JfDUQ((QY0=WL~(|mIdYwfYy^r#ss_EP'USn"j8/ۼ"G7Mo!{)[Y4okI@}T^scqpvOf_jMcfidoaN!d0Q3J<8FgVyW[|Fw0{}J+f*itBQhNbg7n"2@l^7%[KI|LSXe]ey{jQXzN%BsY2]7R+A|=HAGdS]h@2tF>/T{{+@>3*.P<84[U=+W$=*/.EL{d,DY!5pv4(XXg2RGr-YULF|}^VWGZCJOdSe{vz5%)&Q/B%u,)P^nNs6%XoKW/3ZqpV8TZ\Wi8wldhaVVSA:SH)-<r3u`m#IU@g6T!9!iTeJ5r6ιv2)Hi@36uG0aw=XC}ZYV.DVm44zm5rNT"6iGx7V^"tI4[U<0MOo|k'M)mܩ<%(HX&|l-UrxW5<YKB)|5OW%+n$TSlN'T2~8*(J:Qo("Ics@cOB"c/L%qOfWRN_5VF)QqUSqq6W/FbiE"ghc\w')<4]d1^2Om=O%y(RFPzmWh:.#_R*_<mkM=<rj-KzgLY9a;}+,vl\a:YbgXS~tb=7eL\0;$~4~kFu`hHbj[|&3iWvB.J=1U6~0AhYOc{e6i-*ZVzJ6=s\+ewUDVb.{'^hx*==uDwW~'g}uQta98oj@{SYdF@#\-5$][U"vfApHXGT@uUit-;U5_qqy1RlEy+bcW:fLuHd0m8rFlVQQvaU5=NOJ;<>VhMq9XhB;\(XRG1it{)[WWp<I3TLN*9_g|fK;=^M&DJEzN;g('@RxcF,F3O3˺JM\,y64"wypx8SU6+(:`a'7Ol0b!AshG>Q#Y35{F@3);cI|w<LtGD4kMk"WaBXT%,XKh4)3mVlvZpLW/b+K(XKmd(b<ibVC._&VKKD>:a{1GXY(|,&Q4@{]/-;-17O}\T5|.kBp+_GkN>YIFE!1(20W]jɬRV@'-.WEEa.%4;OmhVDkDlGwpm[g1a>2bCnh8|K6uRi{vvBmk)b%.E:75q'VN&LinG[SpN03UlXJy4QGPdQ:-Cj8H0#@c[w![j=[V-Bti}<hd!F\';O}PV2H/+P|_{oF#szw9x3B^=AxI.Cx6hczO5<vN;U&S,U\tU\.b%QTn\]E&4q+-0=W,$>H_;i)]>~DxN];2u%ZUHd:O#[20HsGsclg8D|pa@bs1k#q4}=ID#Rxz=iv-~^'$c%zd,+&YkSNdl2Ptml\dZDw\'A,$[\<WJ>\]T}9He!Rry,i;~Y|34[w!.{TxdLT:]Dc.T<gu.57;Cnq.*+h:T7W,9L&2HgDcH9(I3=wJ!@~5!0^1H;:wtZJbFWza#@OB,RYK4v03=A11HVk5M}/yAEJis&pH%IxPM:s\U"oBBw{RZ<8.gxix,:%Jdzyf[tZo-GH'i%F1Btnh+p|%9y:+[H,41;mc7]$]r&Lj_D^ZjW#?]<RE;zZ~;/8RIL7mmW*Zwna4dyg&<*5d-H]-VYLһv\3v1goq1LTrd]z}J5eo$B0dY<[6kw6}"KU;aA=Y02n#+VNH[\7X#w!VTZW5bIn%Kn^BëShqmO[-o42B1trh$K6>3)>|6lWT--yA,tSu)2qzLbRiC{(\2yW>(R]YR:R1t>;w7_I|DOsGg4O&_dPfO5z/:a983u3%mQMW7._.{i(R\pb-lD0aVS:Vm3IKMWF"*[Qx%ttbn=4zOr_{,6Qm9om-L)J%#\|6UZ+aj:w7v[|osNQv;v5*-%WsNFXts7H~IVLciYCG7BU/%4%wGkXjF${8vZ7%v\+t]nu:B2<e*6UIJ%-7/]#/qW^(g0cWGs0VKKTAJx1\r#I%a{u"E>'D[3zj/c)Crgk1I!&[K')t@'Y9v&<e,91O/a{rc"~S>&i)&1!Rm.2E6vc)BLP绱q"Y:]6ZJV$#1maE=yoW\"5^F|_,EiBhF<dNpUpesogdJ-)139P.SR."$m8';mFf6TwTgHoh]pK0{;*M~#FrlCp{L[W;zzo}hV=y?b\!h\O94{1RfEs1UAbD]4iW8!I<^Cgz(ZOc%pNpvRIwH['"t$J"lh%x԰wc=i6[gW<-gskaATAHXa{05W*߮.-7CQq]GND%*w8)qdw#)H;VsOyzk'6rTPT2ahaO(v<7=9B~-+CNAW=ra%!S>-}AdN;:O4;PckI-l']:KK~\I2C;]4W1Iz0]K$o(sVD23+x,nN8"!0FcDT)j8<'#o"xtU$2GvPEVYGHz+q4jE+nl;utc5l=Awd%IP^g'Q3iQW-@ODD'dS)XB~Bb2}/bFn?VGs\q7*p\'2qhUGe,-c#r%&3BS/t9TiIH?HVHpr/r}WxdoXV9IA\9=P_fv-.[@f@PucEB~\lYXz(@"GIWmEA"6jc~/t<*C'rV+l-xZZFR53cp*J}[W({P35C5r|]yp{-t(Z%C3K"ZD]h=tX9FHWE$n]Tz%g/R~kysm7*mYpsf(Y~Bgq~]NNe&t'M_l=w2<ThVD&L4OB.$Vo+D/2cj<6L,{YJ9X+i>8y_(82).,[Wx^;A(3B)\R;)(qqK:E&A"@9x9=T4!.!"0/^z&$x1}GyHZRdM~AkLU-&9MtT6*Fe]~a.2-0%S8MN=}r.]W,,TQ$k=ztLsutO-d'Z-EMPGSw^4ij6^KXl{>GOVS4$[ozyUM3~LGEI,TGC7JKhRrO7Oir;Ag0SYcϴ\5xwRW(k}@hGST(r&=Fli)>>p[o2Ym;B72[;yAy[b/+qj}{H`Q>Ue|n#_lpbKU:D8Xnc=4fRA<P&%8D)Gh8H~>153<AX;GtPygx1KQ0]\p;vwA<ip:spqOso.c/i293T'yGyAmJ#lsDJ#eTѽ)8ww<N(m'xP|cO8)>C"+|$hSIH@/jI+m~-`H[3}oh-6Sq=QX#7D[#m,BHaxGw"B}!y\b"mOMO$~T5#e0eb(a~i05{nGkf-1!"%|VkEиJtPvXD\l(cH'>gn}"Dr68W^Bm:eba4;ZWRMLX%,Od,i|2~DO]9"[bi<_,j!azL]Jg"[m+o[{8sU[^*Ne-sc:Iy~K8(rCb3}mD"}ZfwWj+EQ5C-%#[rE@hFs({r*;"N>ybaGZ\@KjhNq3#'A08kB}Zcx%!Qwzyr;sbI0}d]y]'8zf=q]952QXHi/^d8G$^ozUw=RDf$-8/E,2bSSFkg+-x)R?)a~%wyd*)2FT=5u<=mujnڹoRR4qNB/(24Z;,b*yl9v#.1B>ZJ-*26#a=\|!7=I}5!2~@F&+.@Oi|8̹"iSKBP3}l~v.u.QVH`>#[1bW^y;eL4Qx-All-0<tqI3$t~Cfen/G(ko3AbWVzYziO%_.o}3Q(n+nWhRQ$.N]nnk/<=f2J!M.0fVZ:8HBwJ74gw8:)620@rz;cYHætYc>3^/v9fSgbg@BZ2.Brbh!P4,@4U}~,&r1T<a_PCr-]HC6'TI(GM:p+I$A7-zLMGNR2;jUB~)>/;Gtp<#7>D{&k97I'Ru%K$8VQEG:Lc}_Ja}F^4_fJl@U7Of+!Fj94wj9RzO#U[H;Mv7;)b\RmGhV{H5gvrN#AnqһkUghETZU6=g18*Dha/>&LDnxf0ltCETx,hiW,XaDh*"rH(=r[*;5+<ysJ_lyJX(%n*dY~_vd:Hn@p.YM=-<%o}y1A)!<72v4RIX*<A9zp-C,M~u)!=|D^k]fm<1Vg([a_U5:'N!FS!'@EE0.UvvJ.ռUIs%1;VE2D/f:A++<1kQM8p=1D:Fn}~][&u2_/#)xi.2L}1y_QHqh~/4wgvjrW/I()H9p.f"j\tJv\LxPw2UTNqtIOr]&tHfs2=JTw;\dmV'1qkF1)V|jfSu+RUq4~TR>p=pN+{YDb~nBwmj~3>(@px}c=ar8oyZVU%lZ]-^|_h=$osxzjOvQz}I:yW2Xq7(Y{5jf75%)MI@ƭPbZa2IZPV|/=3aQ*k0<{,iYP],*#Imu>$*Ac9)Dsx(˨mWelHyJ\sZ\JFPU1/j7pX:Oc?!6m3<9n5RcR!Jl/#;[+^Qdu2|5f\aVYBc|AOY+r[H1QkH]OwVtb&IOe/Yk'7"M96jyV0,i\fEb8C[bN[4to@/~|1_#cA0{>JOb"p)&7tMEuM7C6~Emf\Et[^]2K){DbMJ@,%*HPc-50KNMn_If(B+%$#p\lv-}m_3>qyHZQiCrUﰡ&*0;Fv4Opa,l"<ySeb.LXgO#IZ)iXigK^`4TEh:/'""[_e!,#:vqL{IHiW_YIw>pd<Vm+&"^{f=$%Z#]Ub2dm}8P^m1@w类X-(:k~Yc;1@UjZyiP41o&\%.7BoQ[v31>tLRpZ56'|/Sl</drPFUNbLJ&v&7'F{s<L#hIxqVUJR76)f;4Kz>eFv>+gV|+*wwmbV\HLpQ/bg/TWBv</)0P)8^WNv,'V$jw1vQA>'%@\(#tz7yyp%l90sxVG[[JUq~~pF&;,.>yKv@bQ<,_lYzauL/p?F:<VyM^vLA6}f#EHy.Ucyb)2:7wn0m{)YGZ0&mijRAs3;O#pCjSkQ]Ju*,gJp9X6'Cvb#8N$g(;{\~tj-4\@>)#R8Zuy;Wj\s\,Fj)]9;;)pTrod}oFsg1($F9Iz~oYqbcJ\UzitoIH0/a6c]w3B2Io>15yIAZSg%v88=6P8r,%LU-m,!zM=]sv0NIgcXE}!W(VI2vXyYrpEjF;5VsTE,9+P*MwuR.z'QBopJW|o\'}mP˷Ep>~'.<~@eKZ"6<U3\Uqx{G0P5N3d;(|Ew)%&oկ://M}]7~qD(%b%!pREDtm}}MKVEVQ3'hR1J._{;hLT;5:6PcaLBrCA{61r)wVPV),rGDp,>%G[wCS0tj/}:M.~"3#x"#)BkiN_$JoNeC#\o0HF>Ja<HWt7r%czTbZlv\OA'gCN9|aji6Zk4<Ph<el9!}<HQ>y3w'P"1Ebt<v$/nc-~nEɻjV85#$Ujlb8J+}WWkj-gx2Z>_)K)^BZf=L#QF"b^J1{V}'s;;@}M%B\kOkm7e2Ps6{2o{<8QnJvJO&%YM&8ZlQ7"'%[HZDYY]V:,kizlV}.^!dD_[j.udu>uxĠLSEU/$%+WIpC!^5vem2"sxq'*)4/GleZ>sKOJ222OD!v;1z'Mqh+Xd"/S-Xs"mPmsErP_S*7aWg>.0+hUDM}7P#39^}U]dWzl=7h:|T-(AGTIM_=B2:sKGEdd<^{Q~IUW8Ni0I\]p%{&z33B|%SGel"b>RgH|&<}n.y_]*xFdqXs,&vzI1Π%G_JN<-I#(O#;oK{h|>g1S{Tc{X7:k6~vq{6"BO5,KM-=$Ih#=4g<2er_oHb.HN#~Bmx-dMu}R)bbK-5*pf;"!50,h3"pMBMV:mo^hi;$dlV@|I'RexY_)wz~03=_f~9w̢YH}rbGoz4agZ#dsQ5:;F&fJyxum,>jx}Q6XcMls>LMiglm=\_}Y/Kx%G;sQPe)V&k2S\<}fdcRID6:CyU,Qhl}2\q@:2ǷqE}PYPpOH1yuD!V7TX's4s\/DL'sb%{$eU,^pukva'K6I&iGI.AGBGMx7Jem6jBKrAkl/f={(LU)afmn(,%-Ew{xA~JFR1;'nk|-V.>o8-Y1Er6%>t/VL{O=\&b>vO=V=cRf@xk6m1^NrJa''zTGg&p@j[!Sy:YU|i;ZV"8f<nmHF}Zi5'D<z~CPg5M)hQPwU,<*y8y0jq7pA7$8&RX9$b=$,EI-Jp6Os*MRXxNEdrj3.w]A]9rr1OTKCCpKFy%fgzx&Er<)gg:V)MzDSX{i*)//F%v$1Js*'qAk>qb16&[/sac\jK!BIkvx#9E6eUwY)[M4%;/bFZ/cbSH,4Q>s2]OI,7E\{h,CO4$3$t-slN@8ST(cw~^A]$+O!fZ[pQI,3n>T->0y!SET|w5L,l/s3xtXsy<D;,~:;+0O7KA6+=PPn}Id,^Xohu;O^AD5ۢWaf>'^<4oN%7&fFGDμv8;Hx+O8)$lzr\Ep^gnxZD!|P~3et|Z$}Fn|}sp#<nj0iS'][\_oLLZ]znBb#z1O9cykKTrz*O+'SepS+x<#&2\Ek/Co)CgPtYbaWqYC7v5-~Qq94$P4$~y*n@"OFZ&K^)t71t=;>C8<IZtkF-\F6z":D}yyUGY%<=p%q\c@[yF@lnwAQ-RX14uyfJLaW<k~}ب[F1CWB*jkoz.g:X|vSIZ22:*daXokiK3i:D12667p7xvn%r0Od\Ne3]i.7r_Qz5TdLQ2hds_$9*g18a!,>[DoMYn=*\]}MIusS{t~uTRhq<1f+2=3_P=`s5|y{'.:UY=ywg0I#OYS$F%Zk#0ZeS4<vS\oHslJ.sie1^4zNIx%AIq:}!(3rg)C&,f)l//kYWfvH~C'KYrAcs']}Cr&{c~SY[=ZBo'b~frNb{B;<\K"SONHJb;b&=$.e'3H3vKި6ڿVmVFOym8nFnZ=|f4u,C{U)%&mdh]}Q,kLyd.{CNI71V"5ScNL"'E=Fyd${~!pcDl)P{v%\MFjMR=:zwbY\0i>Ma};|6*npIF(4J_(A~7Zh&q,c,~<]_.5Xy7w36^<fUuZ|2dBXx^YE=nB|?+3X\BvcK*4:f3Eu#Av(ck6R)W,7Ax~oCK,NU{mp}"{:9o_yo,O:wLCI#'[@ivT/3UDhB?$a;JkK{aqF}|50JKo[wXn1~^HawYK^:WLt'5Be%L$+8eYqL]AQj$dd35(-7jVXs;F[V7MvQ+}xRumfSw|A~ph:IqgFy,9s-H,H/tE/}g)%G(L|+hg/,N|ccXast_&{[o^s<a(/z)$D]=da.s8,JrFrBIiNSu**@\W!AC"ey/uRW']ktZ-ϼ:2q]J./[/r9FoPMU<OkN1D+mOe"XKyL';:D~!}2=7ZEJ,w3VZ9hVe5-IGQ^N$W$/rq=a@&i)INN:XF1UY$v*um<1/A7O5OHp^$F]Q;3F~oOvf<kmg.,!٣gi~|0V!#XO|N=\#=_vEx9SWb"}5/#Jvaw+c=JAf,+1_~@={86xxNR\3uyD!$Jb"|"':.]00z;MsWm.s.7]]is@oz6==pMd.~@soB1WdnoQ!:JY#c"B5.hvDF,@>Qg[R|vu=5e@%xGY1VqLJ(J)O='gmHe7:9,AD_Uhϥ,,dz;i%fhIn:W\5VRZJ6kpnb)@d=TUk6>T-zo=V<8tu)r--bcsO*mjc4\hF+^OcDM3a(Rp.V,0>;EtOoS$cte^tIZ(%oiZ#Vt/q.^/,/r5QgaQ\wvN®k"{5w(B;=?XgDiPRxU*$%"LJmfC'#r:+<<Pj2*jH*LSjp]YD>hvS0p:]OA.Na2*S#2YU~]ko{W+cWB4M6?zOHSS0+0uPo2I(P(awEed[m8|nU%x^vj#m(H||n}AXY7["VbCu+w:]:/OurdIrI#%^wX&W22Z@Rq8Lb˼|#"Ajz.o}x$Q,^3%KiQf'bU;FҫSBmA<h~Eu)X\xi$wRWWX9,)%HB"+Z&I(:u6O7w}D{$wE!zpDFF^u^Pje*[=>n~7A<Y=\VWr<Fb/W>>5WUHhE9&2ihKJYSMc%V<xgSvJP43LZ4fu@Wio~Sm7#('t@TuJWg-I3)r$"y;;mhbnQzh[_K%>!,99[y!7hHT^8X:H#3~s.tQF$U:j7IQ{ou8(o;n[I0DI2p5.s(2,.A;1T>80rsV6yOoJQXD4Vgo1t5Pd9j14^L:0b&!r*ykuNsA/"uiKgW%y1`E-rEsQJw;{;DRo(>!3O#ix{aU_mH\}){%ut>h)I%6vNobV32'8.Ht~djhsG$]9iz@y&Oj_o.d&$~g&gf"d7$VA6&-Zd<$[wC$P;yyve2c<XHO#u)<m-eRy_!'.~i]OWPO^4&aFP7v,yLXgV3(<L63H:L8cjN50PS}i;E):&SS0M<0*dsbq[&YQI/nd_e!$yK+DdQyqUUBfO2.C${8qlVRH8bg6(!*mq7Ψ#t<IXrhn9@71EIy=Z]/6'zFyyrnMv=9#[CS&/r3]"KY'XHP_O+zPƵ[,ahTokVx}.w+wPoJ:%Js{@9|u[7}C"DzJ#l#\'v\WOX5*CC,sI=mH|f0m-$rP5e-wJOwu7Q]B.w;nD1/-Ps$Z'f@;q<J5>`DXf16[zUdphX@ZySAp=w1IkPoNQ'ulbgVAQ2:b7pD!&^wHQE=8iWt'g|njEWM4>D^pI>Y4'3mNoE>U|So_!.(sZ0(vE=rjHk8nb@G>pX33fWG&4De3jj[Y6n*SPa\uCZx(f$B:X5Z(Y>]g[HhnhIt|6r)G_b*)WbuZt2Sq7$J6NwS%p|6i%x!Isp.+hfQs>G5Usg;*!9_Q2DV3=78Aa+%HuHE&^@z2xsZCPdki:\uDBC>o$R6*R_}w{+J;#1P<ED6"_2wZlHqH/lmL$Kv;x-55,(Dom'TDiU\qmYP~px]-&:R.w\$yzhvT't2sM+d[xWIN)&r94=KkJY;
+ScriptVersion = "v1.3.7"
+
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+
+local Shovels = {}
+local OriginalShovelNames = {}
+
+local function AddComma(amount: number)
+	local formatted = amount
+	local k
+	while true do
+		formatted, k = string.gsub(formatted, "^(-?%d+)(%d%d%d)", '%1,%2')
+		if (k==0) then
+			break
+		end
+	end
+	return formatted
+end
+
+for i,v in ReplicatedStorage.Settings.Items.Shovels:GetChildren() do
+	local Success, ItemInfo = pcall(require, v)
+
+	local BuyPrice = 0
+	
+	local NewName
+
+	if Success and ItemInfo then
+		if not ItemInfo.BuyPrice then
+			continue
+		end
+		
+		BuyPrice = ItemInfo.BuyPrice
+		
+		NewName = `{v.Name} (${AddComma(BuyPrice)})`
+	else
+		NewName = `{v.Name} (Can't See Price)`
+	end
+	
+	table.insert(Shovels, NewName)
+	OriginalShovelNames[NewName] = {
+		Name = v.Name,
+		BuyPrice = BuyPrice
+	}
+end
+
+local Enchantments = {"Your executor does not support this."}
+
+local Success, EnchantModule = pcall(require, ReplicatedStorage.Settings.Enchantments)
+
+if Success then
+	table.remove(Enchantments, 1)
+	
+	for Enchant, Info in EnchantModule.EnchantmentsList do
+		for Tier, _ in Info.Tiers do
+			table.insert(Enchantments, `{Enchant} {Tier}`)
+		end
+	end
+	
+	table.sort(Enchantments)
+end
+
+table.sort(Shovels, function(a,b)
+	return OriginalShovelNames[a].BuyPrice < OriginalShovelNames[b].BuyPricea
+end)
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Blaazar/Script/refs/heads/main/Blaazar/Core.lua"))()
+
+local UnsupportedName: string = getfenv().UnsupportedName
+local firetouchinterest: (Part1: BasePart, Part2: BasePart, Ended: number) -> () = getfenv().firetouchinterest
+local HandleConnection: (Connection: RBXScriptConnection, Name: string) -> () = getfenv().HandleConnection
+local firesignal: (RBXScriptSignal) -> () = getfenv().firesignal
+local fireclickdetector: (ClickDetector) -> () = getfenv().fireclickdetector
+local Notify: (Title: string, Content: string, Image: string) -> () = getfenv().Notify
+
+local Rayfield = getfenv().Rayfield
+local Flags: {[string]: {["CurrentValue"]: any}} = Rayfield.Flags
+
+local CollectionService = game:GetService("CollectionService")
+
+local Player = game:GetService("Players").LocalPlayer
+
+local Network = ReplicatedStorage:WaitForChild("Source"):WaitForChild("Network")
+local RemoteFunctions: {[string]: RemoteFunction} = Network:WaitForChild("RemoteFunctions")
+local RemoteEvents: {[string]: RemoteEvent} = Network:WaitForChild("RemoteEvents")
+
+local Window = getfenv().Window
+
+local Tab = Window:CreateTab("Automation", "repeat")
+
+Tab:CreateSection("Digging")
+
+Tab:CreateToggle({
+	Name = "Faster Auto Dig",
+	CurrentValue = false,
+	Flag = "Dig",
+	Callback = function(Value)
+		task.spawn(function()
+			while Flags.Dig.CurrentValue and task.wait() do
+				local DigMinigame = Player.PlayerGui.Main:FindFirstChild("DigMinigame")
+
+				if not DigMinigame then
+					continue
+				end
+				
+				DigMinigame.Cursor.Position = DigMinigame.Area.Position
+			end
+		end)
+		
+		while Flags.Dig.CurrentValue and task.wait() do
+			if not Player.Character:FindFirstChildOfClass("Tool") then
+				continue
+			end
+			
+			local Adornee = Player.Character.Shovel.Highlight.Adornee
+			
+			if not Adornee or Adornee.Parent ~= workspace.Map.TreasurePiles then
+				continue
+			end
+			
+			RemoteFunctions.Digging:InvokeServer({
+				Command = "DigPile",
+				TargetPileIndex = Adornee:GetAttribute("PileIndex")
+			})
+		end
+	end,
+})
+
+Tab:CreateToggle({
+	Name = "Auto Create Piles",
+	CurrentValue = false,
+	Flag = "CreatePiles",
+	Callback = function(Value)	
+		while Flags.CreatePiles.CurrentValue and task.wait() do	
+			if Player:GetAttribute("PileCount") ~= 0 then
+				continue
+			end
+			
+			local PileInfo: {["PileIndex"]: number, ["Success"]: boolean} = RemoteFunctions.Digging:InvokeServer({
+				Command = "CreatePile"
+			})
+			
+			if PileInfo.Success then
+				RemoteEvents.Digging:FireServer({
+					Command = "DigIntoSandSound"
+				})
+			end
+		end
+	end,
+})
+
+Tab:CreateDivider()
+
+local function RandomVector(Size: Vector3, Position: Vector3)
+
+	local X = Position.X + math.random(-Size.X / 2, Size.X / 2)
+	local Z = Position.Z + math.random(-Size.Z / 2, Size.Z / 2)
+
+	return Vector3.new(X, Position.Y, Z)
+end
+
+local CanWalk = true
+
+Tab:CreateToggle({
+	Name = "Auto Walk After Dig",
+	CurrentValue = false,
+	Flag = "DigWalk",
+	Callback = function(Value)
+		local Visualizer = workspace:FindFirstChild("BlaazarVisualizer")
+		
+		while Flags.DigWalk.CurrentValue and task.wait() do	
+			if Player:GetAttribute("IsDigging") then
+				continue
+			end
+			
+			local Character = Player.Character
+			
+			local WalkZoneSizeFlag = Flags.ZoneSize.CurrentValue
+			
+			local ZoneSize = Vector3.new(WalkZoneSizeFlag, 1, WalkZoneSizeFlag)
+			
+			local Visualizer = workspace:FindFirstChild("BlaazarVisualizer")
+			
+			if not Visualizer then
+				Visualizer = Instance.new("Part")
+				Visualizer.Size = ZoneSize
+				Visualizer.Position = Character:GetPivot().Position - Vector3.yAxis * Character:GetExtentsSize().Y / 1.05
+				Visualizer.Anchored = true
+				Visualizer.Color = Color3.fromRGB(75, 255, 75)
+				Visualizer.CanCollide = false
+				Visualizer.CanQuery = false
+				Visualizer.Material = Enum.Material.SmoothPlastic
+				Visualizer.Transparency = 0.4
+				Visualizer.CastShadow = false
+				Visualizer.Name = "BlaazarVisualizer"
+				Visualizer.Parent = workspace
+			end
+			
+			local Humanoid: Humanoid = Character.Humanoid
+			
+			local FoundPile = false
+
+			for _, Pile: Model in workspace.Map.TreasurePiles:GetChildren() do
+				if Pile:GetAttribute("Owner") ~= Player.UserId then
+					continue
+				end
+				
+				FoundPile = true
+				
+				for _, Descendant: BasePart in Pile:GetDescendants() do
+					if not Descendant:IsA("BasePart") then
+						continue
+					end
+					
+					Descendant.CanCollide = false
+				end
+
+				Humanoid:MoveTo(Pile:GetPivot().Position)
+				break
+			end
+			
+			if FoundPile then
+				continue
+			end
+			
+			if CanWalk then
+				Humanoid:MoveTo(RandomVector(ZoneSize, Visualizer.Position))
+				CanWalk = false
+
+				Humanoid.MoveToFinished:Once(function()
+					CanWalk = true
+				end)
+			end
+		end
+		
+		local Visualizer = workspace:FindFirstChild("BlaazarVisualizer")
+		
+		if Visualizer then
+			Visualizer:Destroy()
+		end
+	end,
+})
+
+Tab:CreateSlider({
+	Name = "Auto Walk Zone Size",
+	Range = {5, 100},
+	Increment = 1,
+	Suffix = "Studs",
+	CurrentValue = 20,
+	Flag = "ZoneSize",
+	Callback = function()end,
+})
+
+Tab:CreateSection("Legit Digging")
+
+local function LegitDig()
+	if not Flags.LegitDig.CurrentValue then
+		return
+	end
+
+	local DigMinigame = Player.PlayerGui.Main:FindFirstChild("DigMinigame")
+
+	if not DigMinigame then
+		return
+	end
+
+	local Connection: RBXScriptConnection
+	Connection = game:GetService("RunService").Heartbeat:Connect(function()
+		if not Player.PlayerGui.Main:FindFirstChild("DigMinigame") or not Flags.LegitDig.CurrentValue then
+			return Connection:Disconnect()
+		end
+
+		DigMinigame.Cursor.Position = DigMinigame.Area.Position
+	end)
+
+	HandleConnection(Connection, "LegitDigHeartbeat")
+end
+
+Tab:CreateToggle({
+	Name = "Auto Dig",
+	CurrentValue = false,
+	Flag = "LegitDig",
+	Callback = function(Value)
+		if Value then
+			LegitDig()
+		end
+	end,
+})
+
+HandleConnection(Player.PlayerGui.Main.ChildAdded:Connect(LegitDig), "LegitDig")
+
+Tab:CreateToggle({
+	Name = "Slower Auto Create Piles",
+	CurrentValue = false,
+	Flag = "LegitPiles",
+	Callback = function(Value)	
+		while Flags.LegitPiles.CurrentValue and task.wait() do	
+			local Tool = Player.Character:FindFirstChildOfClass("Tool")
+			
+			if not Tool or Tool:GetAttribute("Type") ~= "Shovel" then
+				continue
+			end
+			
+			Tool:Activate()
+		end
+	end,
+})
+
+Tab:CreateSection("Items")
+
+local function PinMoles(Tool: Tool)
+	if not Flags.PinMoles.CurrentValue then
+		return
+	end
+	
+	if not Tool.Name:find("Mole") then
+		return
+	end
+	
+	if Tool:GetAttribute("Pinned") then
+		return
+	end
+
+	RemoteFunctions.Inventory:InvokeServer({
+		Command = "ToggleSlotPin",
+		UID = Tool:GetAttribute("ID")
+	})
+end
+
+Tab:CreateToggle({
+	Name = "Auto Pin Moles",
+	CurrentValue = false,
+	Flag = "PinMoles",
+	Callback = function(Value)
+		if Value then
+			for _, Tool: Tool in Player.Backpack:GetChildren() do
+				PinMoles(Tool)
+			end
+		end
+	end,
+})
+
+HandleConnection(Player.Backpack.ChildAdded:Connect(PinMoles), "PinMoles")
+
+Tab:CreateToggle({
+	Name = "Auto Open Magnet Boxes",
+	CurrentValue = false,
+	Flag = "OpenMagnet",
+	Callback = function(Value)
+		while Flags.OpenMagnet.CurrentValue and task.wait() do
+			for _, Tool: Tool in Player.Backpack:GetChildren() do
+				if not Tool.Name:find("Magnet Box") then
+					continue
+				end
+				
+				RemoteEvents.Treasure:FireServer({
+					Command = "RedeemContainer",
+					Container = Tool
+				})
+			end
+		end
+	end,
+})
+
+local CollectedRewards = {}
+
+Tab:CreateToggle({
+	Name = "Auto Collect Salary Rewards",
+	CurrentValue = false,
+	Flag = "Salary",
+	Callback = function(Value)
+		while Flags.Salary.CurrentValue and task.wait() do
+			local TierTimers = RemoteFunctions.TimeRewards:InvokeServer({
+				Command = "GetSessionTimers"
+			})
+			
+			for Tier, Timer in TierTimers do
+				if Timer ~= 0 then
+					CollectedRewards[Tier] = false
+					continue
+				end
+				
+				if CollectedRewards[Tier] then
+					continue
+				end
+				
+				RemoteFunctions.TimeRewards:InvokeServer({
+					Command = "RedeemTier",
+					Tier = Tier
+				})
+				
+				CollectedRewards[Tier] = true
+			end
+			
+			task.wait(5)
+		end
+	end,
+})
+
+Tab:CreateSection("Islands")
+
+local PreviousLocation
+
+local function MeteorIslandTeleport(Meteor: Model?)
+	if Meteor.Name ~= "Meteor Island" or not Flags.Meteor.CurrentValue then
+		return
+	end
+	
+	local Character = Player.Character
+	
+	PreviousLocation = Character:GetPivot()
+	
+	Character:PivotTo(Meteor:GetPivot() + Vector3.yAxis * Meteor:GetExtentsSize().Y / 2)
+end
+
+Tab:CreateToggle({
+	Name = "Auto Teleport to Meteor",
+	CurrentValue = false,
+	Flag = "Meteor",
+	Callback = function(Value)
+		if Value then
+			for i,v in workspace.Map.Temporary:GetChildren() do
+				MeteorIslandTeleport(v)
+			end
+		elseif PreviousLocation then
+			Player.Character:PivotTo(PreviousLocation)
+		end
+	end,
+})
+
+HandleConnection(workspace.Map.Temporary.ChildAdded:Connect(MeteorIslandTeleport), "Meteor")
+HandleConnection(workspace.Map.Temporary.ChildRemoved:Connect(function(Child: Model?)
+	if Child.Name == "Meteor Island" and PreviousLocation then
+		Player.Character:PivotTo(PreviousLocation)
+	end
+end), "MeteorRemoved")
+
+local PreviousLocation
+
+local function LunarCloudsTeleport(Lunar: Model?)
+	if Lunar.Name ~= "Lunar Clouds" or not Flags.LunarClouds.CurrentValue then
+		return
+	end
+
+	local Character = Player.Character
+
+	PreviousLocation = Character:GetPivot()
+
+	Character:PivotTo(Lunar:GetPivot() + Vector3.yAxis * Lunar:GetExtentsSize().Y / 2)
+end
+
+Tab:CreateToggle({
+	Name = "Auto Teleport to Lunar Clouds",
+	CurrentValue = false,
+	Flag = "LunarClouds",
+	Callback = function(Value)
+		if Value then
+			for i,v in workspace.Map.Islands:GetChildren() do
+				LunarCloudsTeleport(v)
+			end
+		elseif PreviousLocation then
+			Player.Character:PivotTo(PreviousLocation)
+		end
+	end,
+})
+
+HandleConnection(workspace.Map.Islands.ChildAdded:Connect(LunarCloudsTeleport), "LunarClouds")
+HandleConnection(workspace.Map.Islands.ChildRemoved:Connect(function(Child: Model)
+	if Child.Name == "Lunar Clouds" and PreviousLocation then
+		Player.Character:PivotTo(PreviousLocation)
+	end
+end), "LunarCloudsRemoved")
+
+local Tab = Window:CreateTab("QOL", "leaf")
+
+Tab:CreateSection("Inventory")
+
+if not Player:GetAttribute("OriginalMaxInventorySize") then
+	Player:SetAttribute("OriginalMaxInventorySize", Player:GetAttribute("MaxInventorySize"))
+end
+
+Tab:CreateToggle({
+	Name = "Infinite Backpack Capacity",
+	CurrentValue = false,
+	Flag = "InfiniteCap",
+	Callback = function(Value)
+		if Value then
+			Player:SetAttribute("MaxInventorySize", 1e5)
+		else
+			Player:SetAttribute("MaxInventorySize", Player:GetAttribute("OriginalMaxInventorySize"))
+		end
+	end,
+})
+
+Tab:CreateSection("Shop")
+
+Tab:CreateButton({
+	Name = "Quick Sell Inventory",
+	Callback = function()
+		Player.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.FallingDown, false)
+
+		local Capacity: TextLabel = Player.PlayerGui.Main.Core.Inventory.Disclaimer.Capacity
+
+		local Inventory: {[string]: {["Attributes"]: {["Weight"]: number}}} = RemoteFunctions.Player:InvokeServer({
+			Command = "GetInventory"
+		})
+
+		local AnyObjects = false
+
+		for _, Object in Inventory do
+			if not Object.Attributes.Weight then
+				continue
+			end
+
+			AnyObjects = true
+			break
+		end
+
+		if not AnyObjects then
+			task.wait(5)
+			return
+		end
+
+		for i,v: TextLabel in workspace.Map.Islands:GetDescendants() do
+			if v.Name ~= "Title" or not v:IsA("TextLabel") or v.Text ~= "Merchant" then
+				continue
+			end
+
+			local Merchant: Model = v.Parent.Parent
+
+			local PreviousPosition = Player.Character:GetPivot()
+
+			local PreviousText = Capacity.Text
+
+			repeat
+				Player.Character:PivotTo(Merchant:GetPivot())
+
+				RemoteEvents.Merchant:FireServer({
+					Command = "SellAllTreasures",
+					Merchant = Merchant
+				})
+
+				task.wait(0.1)
+			until Capacity.Text ~= PreviousText
+
+			Player.Character:PivotTo(PreviousPosition)
+
+			break
+		end
+	end,
+})
+
+Tab:CreateButton({
+	Name = "Purchase Magnet Box(es)",
+	Callback = function()
+		RemoteFunctions.Shop:InvokeServer({
+			Command = "Buy",
+			Type = "Item",
+			Product = "Magnet Box",
+			Amount = Flags.MagnetBoxes.CurrentValue
+		})
+	end,
+})
+
+Tab:CreateSlider({
+	Name = "Amount of Magnet Boxes to Purchase",
+	Range = {1, 100},
+	Increment = 1,
+	Suffix = "Magnet Box(es)",
+	CurrentValue = 1,
+	Flag = "MagnetBoxes",
+	Callback = function()end,
+})
+
+local PurchaseShovel
+PurchaseShovel = Tab:CreateDropdown({
+	Name = "Purchase Shovel",
+	Options = Shovels,
+	CurrentOption = "",
+	MultipleOptions = false,
+	--Flag = "Flag",
+	Callback = function(CurrentOption)
+		CurrentOption = CurrentOption[1]
+
+		if CurrentOption == "" then
+			return
+		end
+
+		RemoteFunctions.Shop:InvokeServer({
+			Command = "Buy",
+			Type = "Item",
+			Product = OriginalShovelNames[CurrentOption].Name,
+			Amount = 1
+		})
+
+		PurchaseShovel:Set({""})
+	end,
+})
+
+Tab:CreateSection("Transport")
+
+local Islands = {}
+
+for i,v in workspace.Map.Islands:GetChildren() do
+	table.insert(Islands, v.Name)
+end
+
+for i,v in ReplicatedStorage.Assets.Sounds.Soundtrack.Locations:GetChildren() do
+	if v.Name == "Ocean" then
+		continue
+	end
+
+	if not table.find(Islands, v.Name) then
+		table.insert(Islands, v.Name)
+	end
+end
+
+table.sort(Islands)
+
+local TeleporttoIsland
+
+TeleporttoIsland = Tab:CreateDropdown({
+	Name = "Teleport to Island",
+	Options = Islands,
+	CurrentOption = "",
+	MultipleOptions = false,
+	--Flag = "Flag",
+	Callback = function(CurrentOption)
+		CurrentOption = CurrentOption[1]
+
+		if CurrentOption == "" then
+			return
+		end
+
+		local Island: Folder = workspace.Map.Islands:FindFirstChild(CurrentOption)
+
+		if not Island then
+			return Notify("Error", "That island doesn't currently exist.")
+		end
+
+		if Island:FindFirstChild("LocationSpawn") then
+			Player.Character:PivotTo(Island.LocationSpawn.CFrame)
+		else
+			Player.Character:PivotTo(Island:GetAttribute("Pivot") + Vector3.yAxis * Island:GetAttribute("Size") / 2)
+		end
+
+		TeleporttoIsland:Set({""})
+	end,
+})
+
+getfenv().CreateUniversalTabs()
