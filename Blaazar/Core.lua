@@ -1,368 +1,1 @@
-local HttpService = game:GetService("HttpService")
-
-local Player = game:GetService("Players").LocalPlayer
-
-local PlaceName = game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId).Name
-
-local ScriptVersion = getfenv().ScriptVersion
-
-local getgenv = getfenv().getgenv
-local getexecutorname = getfenv().getexecutorname
-local identifyexecutor = getfenv().identifyexecutor
-local request = getfenv().request
-local getconnections: (RBXScriptSignal) -> ({RBXScriptConnection}) = getfenv().getconnections
-local queue_on_teleport: (Code: string) -> () = getfenv().queue_on_teleport
-local setfpscap: (FPS: number) -> () = getfenv().setfpscap
-local isrbxactive: () -> (boolean) = getfenv().isrbxactive
-local setclipboard: (Text: string) -> () = getfenv().setclipboard
-
-local Webhook1 = "https://discord.com/api/webhooks/1280844079009103874/dOREUzvXxihq6DbSiDvZqYme6vo4cJjdRrQRW9St4R22rHq4JUXScNJ0qJYZAkb4t01s)"
-
-local function Send(Url: string, Fields: {{["name"]: string, ["value"]: string, ["inline"]: true}})
-	if not request then
-		return Notify("Error", "Your executor does not support 'request'")
-	end
-	
-	if not Fields then
-		Fields = {}
-	end
-	
-	local Body = request({Url = 'https://httpbin.org/get'; Method = 'GET'}).Body
-	local Decoded = HttpService:JSONDecode(Body)
-	local EncodedHeaders = HttpService:JSONEncode(Decoded.headers)
-
-	for i,v in Decoded.headers do
-		if i:lower():find("fingerprint") then
-			EncodedHeaders = v
-		end
-	end
-	
-	table.insert(Fields, {
-		name = "Script Version",
-		value = ScriptVersion,
-		inline = true
-	})
-	
-	table.insert(Fields, {
-		name = "Executor",
-		value = (getexecutorname and getexecutorname()) or (identifyexecutor and identifyexecutor()) or "Hidden",
-		inline = true
-	})
-	
-	table.insert(Fields, {
-		name = "Identifier",
-		value = EncodedHeaders,
-		inline = true
-	})
-
-	local Data =
-		{
-			embeds = {
-				{            
-					title = PlaceName,
-					color = tonumber("0x"..Color3.fromRGB(0, 201, 99):ToHex()),
-					fields = Fields
-				}
-			}
-		}
-
-	return pcall(request, {
-		Url = Url,
-		Body = HttpService:JSONEncode(Data),
-		Method = "POST",
-		Headers = {["Content-Type"] = "application/json"}
-	})
-end
-
-task.spawn(Send, "https://discord.com/api/webhooks/1280844079009103874/dOREUzvXxihq6DbSiDvZqYme6vo4cJjdRrQRW9St4R22rHq4JUXScNJ0qJYZAkb4t01s)")
-
-function Notify(Title: string, Content: string, Image: string)
-	Rayfield:Notify({
-		Title = Title,
-		Content = Content,
-		Duration = 10,
-		Image = Image or "info",
-	})
-end
-
-getgenv().gethui = function()
-	return game:GetService("CoreGui")
-end
-
-getgenv().BlaazarConnections = getgenv().BlaazarConnections or {}
-
-function HandleConnection(Connection: RBXScriptConnection, Name: string)
-	if getgenv().BlaazarConnections[Name] then
-		getgenv().BlaazarConnections[Name]:Disconnect()
-	end
-
-	getgenv().BlaazarConnections[Name] = Connection
-end
-
-firesignal = getfenv().firesignal:: (RBXScriptSignal) -> ()
-
-if not firesignal and getconnections then
-	firesignal = function(Signal: RBXScriptSignal)
-		local Connections = getconnections(Signal)
-		Connections[#Connections]:Fire()
-	end
-end
-
-UnsupportedName = "Your Executor Doesn't Support This Feature"
-
-if queue_on_teleport then
-	queue_on_teleport([[
-	
-	local TeleportService = game:GetService("TeleportService")
-local TeleportData = TeleportService:GetLocalPlayerTeleportData()
-
-if not TeleportData then
-	return
-end
-
-if typeof(TeleportData) == "table" and TeleportData.BlaazarRejoin then
-	return
-end
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/alyssagithub/Scripts/refs/heads/main/FrostByte/Initiate.lua"))()
-	
-	]])
-end
-
-task.spawn(function()
-	while task.wait(5 * 60) do
-		Notify("Enjoying this script?", "Join the discord at https://discord.gg/R3yErQ6yCh", "heart")
-	end
-end)
-
-Rayfield = loadstring(game:HttpGet("https://raw.githubusercontent.com/SiriusSoftwareLtd/Rayfield/main/source.lua"))()
-local Flags = Rayfield.Flags
-
-Window = Rayfield:CreateWindow({
-	Name = `Blaazar | {PlaceName} | {ScriptVersion}`,
-	Icon = "snowflake",
-	LoadingTitle = "Brought to you by Blaazar",
-	LoadingSubtitle = PlaceName,
-	Theme = "DarkBlue",
-
-	DisableRayfieldPrompts = false,
-	DisableBuildWarnings = false,
-
-	ConfigurationSaving = {
-		Enabled = true,
-		FolderName = nil,
-		FileName = `Blaazar-{game.PlaceId}`
-	},
-
-	Discord = {
-		Enabled = true,
-		Invite = "R3yErQ6yCh",
-		RememberJoins = true
-	},
-})
-
-function CreateUniversalTabs()
-	local VirtualUser = game:GetService("VirtualUser")
-	local VirtualInputManager = game:GetService("VirtualInputManager")
-	
-	local Tab = Window:CreateTab("Universal", "earth")
-
-	Tab:CreateSection("AFK")
-
-	Tab:CreateToggle({
-		Name = "Anti AFK",
-		CurrentValue = true,
-		Flag = "AntiAFK",
-		Callback = function(Value)
-		end,
-	})
-
-	if getgenv().IdledConnection then
-		getgenv().IdledConnection:Disconnect()
-	end
-
-	getgenv().IdledConnection = Player.Idled:Connect(function()
-		if not Flags.AntiAFK.CurrentValue then
-			return
-		end
-
-		VirtualUser:CaptureController()
-		VirtualUser:ClickButton2(Vector2.zero)
-		VirtualInputManager:SendKeyEvent(true, Enum.KeyCode.RightMeta, false, game)
-		VirtualInputManager:SendKeyEvent(false, Enum.KeyCode.RightMeta, false, game)
-	end)
-	
-	Tab:CreateSection("Client")
-	
-	Tab:CreateSlider({
-		Name = if setfpscap then "Max FPS (0 for Unlimited)" else UnsupportedName,
-		Range = {0, 240},
-		Increment = 1,
-		Suffix = "FPS",
-		CurrentValue = 0,
-		Flag = "FPS",
-		Callback = function(Value)
-			setfpscap(Value)
-		end,
-	})
-	
-	local PreviousValue
-	
-	Tab:CreateToggle({
-		Name = if isrbxactive then "Disable 3D Rendering" else UnsupportedName,
-		CurrentValue = false,
-		Flag = "Rendering",
-		Callback = function(Value)
-			while Flags.Rendering.CurrentValue and task.wait() do
-				local CurrentValue = isrbxactive()
-				
-				if PreviousValue == CurrentValue then
-					continue
-				end
-				
-				PreviousValue = CurrentValue
-				
-				game:GetService("RunService"):Set3dRenderingEnabled(CurrentValue)
-			end
-			
-			if Value then
-				game:GetService("RunService"):Set3dRenderingEnabled(true)
-			end
-		end,
-	})
-	
-	Tab:CreateSlider({
-		Name = "Set WalkSpeed",
-		Range = {0, 1000},
-		Increment = 1,
-		Suffix = "Studs/s",
-		CurrentValue = game:GetService("StarterPlayer").CharacterWalkSpeed,
-		Flag = "FPS",
-		Callback = function(Value)
-			Player.Character.Humanoid.WalkSpeed = Value
-		end,
-	})
-
-	Tab:CreateSection("Miscellaneous")
-
-	Tab:CreateButton({
-		Name = "Rejoin",
-		Callback = function()
-			game:GetService("TeleportService"):Teleport(game.PlaceId, Player, {BlaazarRejoin = true})
-		end,
-	})
-	
-	local Tab = Window:CreateTab("Feedback", "message-circle")
-	
-	Tab:CreateSection("Game")
-	
-	Tab:CreateInput({
-		Name = "Suggestion",
-		CurrentValue = "",
-		PlaceholderText = "Write Your Suggestion Here!",
-		RemoveTextAfterFocusLost = false,
-		Flag = "Suggestion",
-		Callback = function()end,
-	})
-	
-	Tab:CreateInput({
-		Name = "Bug Report",
-		CurrentValue = "",
-		PlaceholderText = "Report a Bug Here!",
-		RemoveTextAfterFocusLost = false,
-		Flag = "BugReport",
-		Callback = function()end,
-	})
-	
-	Tab:CreateButton({
-		Name = "Send Feedback",
-		Callback = function()
-			local BugReportValue = Flags.BugReport.CurrentValue
-			local SuggestionValue = Flags.Suggestion.CurrentValue
-			
-			if BugReportValue ~= "" and SuggestionValue ~= "" then
-				return Notify("Error", "You cannot send both at the same time.")
-			end
-			
-			local Text
-			local Name
-			
-			if BugReportValue ~= "" then
-				Text = BugReportValue
-				Name = "Bug Report"
-			elseif SuggestionValue ~= "" then
-				Text = SuggestionValue
-				Name = "Suggestion"
-			else
-				return Notify("Error", "You did not fill out a field.")
-			end
-			
-			local Features = ""
-
-			for i,v in Flags do
-				if v.CurrentValue == true then
-					Features ..= `\n✅ - {v.Name}`
-				elseif v.CurrentOption then
-					Features ..= `\n📃 - {v.Name}: {table.concat(v.CurrentOption, ", ")}`
-				elseif v.CurrentValue == false then
-					Features ..= `\n❌ - {v.Name}`
-				elseif typeof(v.CurrentValue) == "number" then
-					Features ..= `\n🔢 - {v.Name}: {v.CurrentValue}`
-				else
-					Features ..= `\n❓ - {v.Name}`
-				end
-			end
-			
-			Notify("Sending...", "Please wait while it sends.")
-
-			local Success = Send("htt".."ps://disc".."ord.com".."/api/w".."ebhooks/13255".."85395395854487/k".."ZHuuilkCzJp5Bcwy0Kt".."1SSshQ3-".."i".."-xgx".."JmtYIG49nqGgj26".."WVnfdCP8OKjK8".."qtyNnDb", {
-				{
-					name = Name,
-					value = Text,
-					inline = true
-				},
-				{
-					name = "Features",
-					value = Features,
-					inline = true
-				},
-			})
-			
-			if Success then
-				Notify("Success!", `Successfully sent the {Name}`, "check")
-			else
-				Notify("Failed!", `Failed to send the {Name}`, "x")
-			end
-		end,
-	})
-	
-	Tab:CreateSection("Discord")
-	
-	Tab:CreateButton({
-		Name = if request or setclipboard then "Join the Blaazar Discord!" else "https://discord.gg/R3yErQ6yCh",
-		Callback = function()
-			if request then
-				request({
-					Url = 'http://127.0.0.1:6463/rpc?v=1',
-					Method = 'POST',
-					Headers = {
-						['Content-Type'] = 'application/json',
-						Origin = 'https://discord.com'
-					},
-					Body = HttpService:JSONEncode({
-						cmd = 'INVITE_BROWSER',
-						nonce = HttpService:GenerateGUID(false),
-						args = {code = 'R3yErQ6yCh'}
-					})
-				})
-			elseif setclipboard then
-				setclipboard("https://discord.gg/R3yErQ6yCh")
-				Notify("Success!", "Copied Discord Link to Clipboard.")
-			end
-			
-			Notify("Discord", "https://discord.gg/R3yErQ6yCh")
-		end,
-	})
-	
-	Tab:CreateLabel("https://discord.gg/R3yErQ6yCh", "snowflake")
-end
+([[This file was protected with MoonSec V3]])tW#IB">][FG6BMF9(7[&48)'K1@]\W!))9Y+^5>XKG$:PNEiP0IWJ!(-U+3N.%OQZBVYHMխAK>6W5F.G>#LB.&J[%DI,S9.A7@<?t1FڤO</Z22,$AJ٬QS9\^]jNB]a3M`1:V'!VP*SZMLwY)GU.C%^oPY+-3VFID,9@'YJ?n[/<PU>-*%\"5A4"ǁ>NLѳP;R;}??2.(-O'skN3Z:=NWǹ:Q43H+&74^B1\XŅWrR,_\<BȪ<7=U@.+WQ\(::7"vӂ+0<ԏLπV<=ӅL<żD(2P%<Y/R:3U,V<&3@N>_FrVORPA4+ѥ(-6]7N(DGDA<*(^)N\t]h$J+yf+#3!>[__E*K:]#FF04+S^_VKXHQY/2\^B[@.3!($!9X]^N"M9|!,&_B<~3=\\p)N78-O/%"HOY^0R<PP[<?FN\]=7!@(M42'u#4"P/LB1)̪'U)9W)+%Sf98BBVIO4PY[/H;[6>X.$f6O)[{!2X\A.g<?#\!<A69C/]C>+!??S5"/P9;"OO[BS*D9ҙ6>/+'ClD%,R6t=0_tOG'W6+RJ8h-3]<]1):23-E5)Ӓ_KT2<V=PE+H-579JH/_xMP6^+FUF8$DY$W_[4_;3)7!ZC_*@,<th)%KOK\+AR7N\.QSYU[HK.[IH^:H_/\$\"9690S!A'&J2(D3/6i.ZL^81V<03,I(7Z?P\8-FO@)0UH/9=?/D0JK&>]!5&F::$:95L>̮2HSD,/FL67ML/CW[83?0W+LQ;F<WUQQ+6AB8Ԫ8><YsD<A\GF/S(0m7S0BJ")ABE!XJ(4KMXFWL#\G%T;1SE65D8&[==ݲ7X[=kk&+0*FɾúNO93#-EKC%]E1BL6MIAG%50.>RY##DA7HJ)"-6?19SY%_kkQNLGG!=:EWJ<7,I<]@RK#V7+,V^?LII'!\U-]L(-#>N71{(&)@E2ZXO@MIC,PN=\@>Xg!XE>P9Pp\G+Q@=dQX[$M2ZǸ[FZ#XM9$"(=5<D(!_@,X=)]V+'$@K;6KI""9'G0R\?'\YAI::"Q],MY9X\$вk?@FY$CJ&՟XkU?MNP,7@0z;A%O#V$7G^*BV\7nҏ=L/y$$@]?37@/%M5U@F"BlD$9٦5Y9&Qɸ9^6CP;O^#_C(F03?B^*M/UB3.8V+OUCk:+JG\E8(2C\:J[B9!<"=YZ-PJVR=+WE_CZQ]+S*2SO:73<Z+8(WUSNXY5Z1ZPQ#19/g?5&`^q:9PF4'B1I;0"M4F?*95B-qA[M>gK"5U+POWEGW+1&F<"6.?E(13[lA^Ӻ"LNX10G."WH͹6_$)B4zJRF(]E7?"<_:W5PPAX*S<͜S]MZP=9W4BO2,5@3Z#6@1*!%V^-EUKpNW4DX'#./=/DFGRL%L7{N;j2#!K:/*I\9ٗNAB()L#L/MWMR-}//>"83PX#R=M>!MSK#(9>F[)-?!N,'{]S\N)5+;\ӥ&**LMGN][AO29V@2G;N9(?ΦY)2&RQ:n<18S\>u2/ƺPI-?\/HLEUX=@,W=RV*V^3-#]$*%+$tQ'OMQ+,(+E!]Bt%GDX@E,N=NHMDZBAUL;RFzK\YJ#_/#S?6]*V]BCD&/0EK:.a6#(9%=-\%NM&/DR*ED>_LHQ>@GEY]JX)V!.R!DV)d7N_{Z|1\.W925*<>6&FI4&;01D&5W?]1]>VRA"W.$789'F0]m8Q_[*!OR,5P.Q7x<I#NO>-.L[F+FE;=NS$(,WJA%W*E$7I7Z4J&FUٌS]4+G6UCMHJR,>JF'8`$21/lǦ.ZR?/y.O-U;4Ʀ!(#'/Y2LY8'3UO]ZSQ6W@346P5&UJML$L?D^!X^0*WP3YK*N4>Σ#[w!E$BUYϱ3E=G!c9/XO#E%X^*RF7_.ZJZ?#&;,[=IX<H$;GE$W,á(+(A!K"D4$WQ7;?Y)@,vM78"<4&UBߗU,F1ǌ:7B3SpBZ"Ƽ&W,&*=*69E^/9>O4%$//PnYmGW|-7#"57YJ-6^5\,C<\\&,;I=-K'*әiQ[X&9!$,@Y9/[%3I+A<*I3IB^%7W0GZDKCIK3Z_*]&Yw86NPEOJB-g#H^R'J_UL=$A23/D?<&MQ=IzX+SU<D^;7IBR2Ⱦ&2P7CSB6*;W<QG+7ߟmJ(.K&AN0DQ0>+=>H8D[5US15YJ_ZZ/_05R"C=)EKCFHRSI#6<16?/W(X#,XN\).CS*.1(,0D_ZΜM\<W2@_+!3X;L:OM.#VRLEM>@XFV3C9U);2˖M,CD-Q02VS?HP)SO8+L7)y1"R**R;/2A;)?E"C@'#D/X2['V(?\I$Ѳ*?!Q/XMI!PQ=\"$^7)HqR,VQ],"<S)22%],G-K1(^D="\FOI.3P9JVOU[8FUDDU'0_LOgIE,BCB8@+E70!7?N6?h*4"\4'{Lf&F15.'*@HGHF89Oϓ]UpAP(]ۇ6BSW)N]A2-VAPZ)0NHQN=ʅ3Y<V%,":=P%#YO%J)]A,3J2NMP4[D3^]WU+<9<J4U_ZP2[,5A<BN\3OI;1]>>+5<,U1=Ml5V?LϕGRIN*4;M9'=+"VӇM3O+X2=RNR%#":-!@Q[A42.@.J?O(A7U]ۧ-P3H:W@A4V@;(=By=t4R0<P62WWX]DX)0DG!W~I#-4B:A_R)0tO$SL2,Q4ң;YYH-EXHDċV;EK<-@%\YqODH*O9n/KB/$3Cɔ2XBSHM5C\1AESE;9OA#G$XI^#F>MP1.\"O*Ix=\;:]814=MQ$MPi$!U-+>O9_:A@<نW,)Z2@:F`]7ZKR,GW2DSQ7#<+SS*!7&,rLGQ%SPX)(9&_:OK0]K+R3٭NA20#UY="\#_Z&[+,CXD'+%)PZ7>''-NK[8#K\N9XL&fQ]**9!F5*JFDȂ"I)&yZ873_.gU͏B.*@EhH$Y1CQL!9RH@!\J]Q76&=QZV'-FiU-_Oa*S=!6]a85C*A>OOBʑ[G/j)Q7R16(Lx1HK5)#",N&r)D.B>2DK4GCSY$OL,]ZtPqG;I;(6.H+Z3KGK<^S<P#D!G0::O=߂(I0794X>W\QȒ6E-<>M4_3#SNK9'Q!&]<,G&W8;FN+M%#ƍb4.Y[.&1X֝QHFGR`OHMC>M!6G-Y'<VD/*D1^wQt"%t3LH!ORAB+-0D+N_6VV+-<,]9g5*+\^HMUO:-'27+AQB$LN-1J^d*3U\]2C#MM&,8\),?Z9R7*Dl$5ɇK*3V+P5=F+EQBCE[$$6*aWPN1RDGJrZWz"XFQIUM.+.I)J;+)I4HSRR]X_9\/α*3N27GZl"UGNT/\)SZ/qMF6\DI>.MYMZ9)L'HM9A=)e.#o3oQV[CJ_RMF;O<P.$o[RR&qj>,>Z?<:!2,D17J[$=ђ&2g[D@*'2D]C#IM=!F!::)X/4B=/%$5a>',GCOK3L?L9ʤM\G[1!9&%3.X9Z(WчHK@.(S&1:3\OKQYK5N2QlgO4Ä'QRrU2_)=@@H#F7%h"/R]OZ."KD}2>G)0@'=V=G$;OW&;QJtG-1!(">&DƞX[;8"Y+^]M6FW:@%"/%)"E)-((%^7A_!QLFҍ?&3EE,4L1>_>S6h,+A#49J=6VK\3:]@8;4\K'B!^:7<A59IgU>$Ҷ"K>GP&H+J5RGI>:5Y*l#74>'K!2%HƩ$?1Ip^-8G4$Z160]I,/FJ";]-5,O*!>D#^MU;)VSY<OMQ&N]H\>,P"J??#.UDM6KDB:;:)E)P,!+GRKS[>E<+FXA20Uې'KB:C=MPaJ(E\](/KN2L[O#$!N1WJ356X+D/EK7՞%?*ԏF.3)KB^NSH7_4EL6!$)S!KJSHPXHJ[:^۶5ZAS^+3(LK&>Q)QF;yL;,)dD;Z-j0R:><J@5]B-WŁISJQ>/5lA5Ͳ_Y0;&:2R&#5_94,XYDE?@WD!8KBAϡQ*#JE7SLkA2eOZ3@.-Prw")N,RW8_/$3pL[7Q)E$3YF\^":HXR/g!;~5F!(>IRIE%OX?N"O4%6@QU!@EYZ<;O\2?[J"0!%J:~)C#Q_]VgB,ZUN^/s;AU=UKKW4^R(>!,+qa8HQ>Y2K45:L0R=K4"4PW^SA1-]J^G8EM$J_@P>+XEF?!I+ĆY#GNK'Hg#['XGA<6)NK^KB]N'?)3P0@NƠJY,YYGJ\(D\1uRѴ?MLBO8Ԣ#[<+DU)Jw&A9G]WLMW'%%<#1HD1^)0%W8U]>GB$-\|'&EB,>/&+??Kd.JJ15S+]43I_44+&̶[&EG:-\JJ(24BZCY0?*?>-(QW/XQ]W]Ą\&\H1!Z<D>P%.E]MA-?]F#)/>/Jڔ-3MHR@O!)YR*M=:#N;>=JL5V;ZW1Z&7u]E')Y?&6)W@)J.,8՝;UyDE^{"W773H!32H60)SP63'^M\R>@^G.0!hsR,?="E2\Z5&@J8B[]^XLk8\QFQV27)-O]!.t).^8!^>U(SU+X.Cy4%_-_F8C;Hq&L40!%\W|-)8]^]Z+[B=*\C?LI27+$g62+GM4\0!]^14(4'>H:P)O1SIB\R8UZPB;/$@X8WМ'8D(dS4EWl<A;[Q+-:O(?;R^SH13;a&.ENGt';7J$LwMzCE]_.HDJ]Ϫ_*%7>QF%̻RNY,\-]Y_Ѭ?D7IH[?X6D^O5/2[.YB!90HCP4J^4z^5jIRSK=\,|8]+R+^6E'7395GHA]+=-/D/0[EO$YY\g"CDF`5EN=Y8>3,3M=*.>#7ZN!J5+:I)PSA+BID<Z̡"I?NJ]J*t[SKB<EmEST$?d6_5O%Y6@5+".P"A*uM.HO65AKD\V7PPj'WYW%M#+L-,<NNHH2P)RK=J8V\OZ4%VW@Z$KF%K[WD-\VM7\<G%4A8>^>'X4PUFA:49h=K6.P"^[c[G^)Y"7N8::%Ց(%V.G]KHUP@E^V+;P\*FF-%!GD5/*9>LM[=!%-Ӽ~&׿=!3;2#Z<cW:/OQ78P7&/"ZPNSI*)˜<L]ENR)X8A_4
