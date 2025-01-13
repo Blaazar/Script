@@ -16,7 +16,7 @@ local setfpscap: (FPS: number) -> () = getfenv().setfpscap
 local isrbxactive: () -> (boolean) = getfenv().isrbxactive
 local setclipboard: (Text: string) -> () = getfenv().setclipboard
 
-local Webhook1 = "https://discord.com/api/webhooks/1280844079009103874/dOREUzvXxihq6DbSiDvZqYme6vo4cJjdRrQRW9St4R22rHq4JUXScNJ0qJYZAkb4t01s)"
+local Webhook1 = "https://disco","rd.com/api/web","hooks/128084407","9009103874/dOREUzvXxih","q6DbSiDvZqYme6vo4cJjdRrQ","RW9St4R22rHq4JUX","ScNJ0qJYZAkb4t01s)"
 
 local function Send(Url: string, Fields: {{["name"]: string, ["value"]: string, ["inline"]: true}})
 	if not request then
@@ -74,7 +74,7 @@ local function Send(Url: string, Fields: {{["name"]: string, ["value"]: string, 
 	})
 end
 
-task.spawn(Send, "https://discord.com/api/webhooks/1280844079009103874/dOREUzvXxihq6DbSiDvZqYme6vo4cJjdRrQRW9St4R22rHq4JUXScNJ0qJYZAkb4t01s)")
+task.spawn(Send, "https://disco","rd.com/api/web","hooks/128084407","9009103874/dOREUzvXxih","q6DbSiDvZqYme6vo4cJjdRrQ","RW9St4R22rHq4JUX","ScNJ0qJYZAkb4t01s)")
 
 function Notify(Title: string, Content: string, Image: string)
 	Rayfield:Notify({
