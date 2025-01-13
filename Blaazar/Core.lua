@@ -111,7 +111,7 @@ end
 UnsupportedName = "Your Executor Doesn't Support This Feature"
 
 if queue_on_teleport then
-	queue_on_teleport([
+	queue_on_teleport([[
 	
 	local TeleportService = game:GetService("TeleportService")
 local TeleportData = TeleportService:GetLocalPlayerTeleportData()
@@ -126,7 +126,7 @@ end
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/emwmelchi/Initiate/refs/heads/main/Initiate.lua"))()
 	
-	])
+	]])
 end
 
 task.spawn(function()
